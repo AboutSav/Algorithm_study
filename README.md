@@ -8,7 +8,7 @@ https://nifty-paddleboat-7b2.notion.site/63fb635a0cba4b26908db38e289702d4?v=ab76
 - 매일 1문제씩 풀어야 함!
 1. 본인 이름으로 ```Branch``` 만들어서 코드 업로드 후 ```Pull Request``` 보내기
 2. 나머지 3명이 ```Comment```로 코드 리뷰 해주기
-3. ```마지막 승인한 사람이 Merge```하기
+3. 마지막 승인한 사람이```Merge```하기
 
 # Convention
 주석 : 아이디어 도출 과정, 개념 적용 과정

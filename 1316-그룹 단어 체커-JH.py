@@ -1,10 +1,8 @@
 import sys 
- 
-arr = []   
+   
 count = 0
 
-for _ in range(int(input())):
-    arr.append((sys.stdin.readline().rstrip()))  
+n, *arr = map(str,sys.stdin.read().split())
  
 for i in arr: 
     tmp = list(i) 

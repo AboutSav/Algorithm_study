@@ -1,10 +1,9 @@
 import sys 
  
-n = int(input()) 
 arr = []   
 count = 0
 
-for _ in range(n):
+for _ in range(int(input())):
     arr.append((sys.stdin.readline().rstrip()))  
  
 for i in arr: 

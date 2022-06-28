@@ -8,7 +8,7 @@ for _ in range(n):
     arr.append((sys.stdin.readline().rstrip()))  
  
 for i in arr: 
-    tmp = [ord(x) - 96 for x in i]  
+    tmp = list(i) 
     cnt = 0
     for j in range(0,len(tmp)-1): 
         if tmp[j] != tmp[j+1]:
